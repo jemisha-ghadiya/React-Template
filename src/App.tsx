@@ -5,7 +5,7 @@ import LOGO from './react-2.svg'
 import { Counter } from './Counter'
 export const App = () => {
   const name = 'jemisha'
-  const lname="hello"gfffgf
+  const lname="goodmorning"
   return (
     <>
       <h1>
